@@ -1,6 +1,6 @@
 # Student Result Analyzer 
 
-A beginner-friendly Python project to manage and analyze student marks using CSV, pandas, and matplotlib.
+A beginner-friendly Python project to manage and analyze student marks using CSV, pandas, and matplotlib..
 
 ##  Features
 
